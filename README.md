@@ -1,5 +1,6 @@
-### Hi there 👋
+### 👩‍💻 Engenheira de Software | Graduada pela Universidade de Brasília (UnB) 🎓
 
+Bem-vindo ao meu perfil! Sou apaixonada por desenvolvimento de software. Meus interesses incluem desenvolvimento web e engenharia de dados! 🚀
 <!--
 **biancasofia/biancasofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
